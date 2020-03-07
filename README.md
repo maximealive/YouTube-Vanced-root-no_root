@@ -1,4 +1,8 @@
-# YouTube-Vanced-root-no_root
+# YouTube Vanced root - no_root
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12975980/76147091-19f57180-6099-11ea-8aa8-0dfcfdfc2363.png">
+</p>
 
 ## Installation - no root (YouTube Vanced v15.05.54)
 
@@ -13,4 +17,16 @@
 2. Download and put "ytva-universal-installer-v5.1.zip" and "Youtube_14.21.54.apk" in _/sdcard/Download_ folder
 3. Reboot to recovery and flash the .zip file
 
+### Note
+
+Remeber to disable auto-update for YouTube in Google Play Store or you'll need to repeat the installation method.
+
 ### Issue
+
+ - Don't uninstall YouTube official app. If you made it reinstall and follow the installation method.
+
+### References/Files
+
+- https://vanced.app/
+- https://www.xda-developers.com/youtube-vanced-apk-root/
+- https://www.xda-developers.com/youtube-vanced-apk/
