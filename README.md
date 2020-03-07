@@ -1,7 +1,7 @@
 # YouTube Vanced root - no_root
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/12975980/76151348-4d91c500-60b4-11ea-8ef2-18ba755c4f0b.png">
+  <img src="https://user-images.githubusercontent.com/12975980/76151367-83cf4480-60b4-11ea-8884-0777a68bf7a7.png">
 </p>
 
 ## Installation - root (YouTube Vanced v14.21.54)
