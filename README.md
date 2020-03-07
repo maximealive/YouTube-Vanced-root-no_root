@@ -8,8 +8,7 @@
 
 1. Force stop and Disable the app from app settings
 2. Install MicroG
-3. Install SAI from Google Play Store (https://play.google.com/store/apps/details?id=com.aefyr.sai&hl=it)
-4. Install YouTube Vanced apk
+3. Install YouTube Vanced apk with SAI (from Google Play Store: https://play.google.com/store/apps/details?id=com.aefyr.sai&hl=it)
 
 ## Installation - root (YouTube Vanced v14.21.54)
 
