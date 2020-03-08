@@ -20,6 +20,11 @@
 
 Remeber to disable auto-update for YouTube in Google Play Store or you'll need to repeat the installation method.
 
+### Materials/Specifications
+
+- Asus ZenFone 3(ze552kl)
+- Android Pie(SuperiorOS)
+
 ### Issue
 
  - Don't uninstall YouTube official app. If you made it reinstall and follow the installation method.
