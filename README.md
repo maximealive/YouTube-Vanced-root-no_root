@@ -22,8 +22,8 @@ Remeber to disable auto-update for YouTube in Google Play Store or you'll need t
 
 ### Materials/Specifications
 
-- Asus ZenFone 3(ze552kl)
-- Android Pie(SuperiorOS)
+#### Tested on:
+Asus ZenFone 3(ze552kl) with Android Pie(SuperiorOS) 
 
 ### Issue
 
