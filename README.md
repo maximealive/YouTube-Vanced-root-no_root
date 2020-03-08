@@ -18,7 +18,8 @@
 
 ### Note
 
-Remeber to disable auto-update for YouTube in Google Play Store or you'll need to repeat the installation method.
+- Remeber to disable auto-update for YouTube in Google Play Store or you'll need to repeat the installation method.
+- Download the right version of YouTube Vanced(xda links). To check which version you need Droid Hardware Info could help you(https://play.google.com/store/apps/details?id=com.inkwired.droidinfo&hl=it)
 
 ### Materials/Specifications
 
